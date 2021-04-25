@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">可乐壁纸</string>
+
+    <!-- XListView -->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">释放更新</string>
+    <string name="xlistview_header_hint_loading">正在加载</string>
+    <string name="xlistview_header_hint_done">加载成功</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_footer_hint_over">没有更多了</string>
+
+</resources>
