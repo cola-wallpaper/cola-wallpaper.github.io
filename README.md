@@ -4,4 +4,4 @@
 
 壁纸列表数据：https://api.klbz.club/db.json
 
-DOWNLOAD : [RELEASE](https://github.com/cola-wallpaper/cola-wallpaper.github.io/releases/tag/1.0)
+DOWNLOAD : [RELEASE](https://github.com/cola-wallpaper/cola-wallpaper.github.io/raw/main/release-apk/klbz.apk)
